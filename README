@@ -1,0 +1,14 @@
+Face detection using OpenCV.
+
+Install
+=======
+
+Install python2, opencv.
+Run ./face.py
+
+How to use
+==========
+
+Take a screen every 1s by default if the was nobody before, if there was
+already someone, does nothing and wait another second and so on...
+
